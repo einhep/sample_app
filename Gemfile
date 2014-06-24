@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'https://ruby.taobao.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.4'
@@ -44,6 +44,7 @@ gem 'pg','0.15.1'
 end
 
 gem 'bootstrap-sass','2.3.2.0'
+gem 'bcrypt-ruby','3.1.5'
 
 # Use unicorn as the app server
 # gem 'unicorn'
